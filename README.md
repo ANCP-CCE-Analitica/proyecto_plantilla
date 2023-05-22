@@ -14,11 +14,11 @@
 
 El proyecto se organiza en las siguientes carpetas y subcarpetas:
 
-- `Code`: Esta carpeta contiene todo el código del proyecto.
+- `codigo`: Esta carpeta contiene todo el código del proyecto.
 
-- `Docs`: En esta carpeta alojará todos los documentos del proyecto.
+- `documentos`: En esta carpeta alojará todos los documentos del proyecto.
 
-- `Sample_Data`: Dependiendo de los requerimientos del cliente con respecto a la publicación de datos de prueba, puede almacenarlos o no en esta carpeta. El objetivo de almacenar dichos datos es ejecutar y validar rápidamente que es lo que están haciendo los scripts del proyecto por ejemplo.
+- `muestras_de_datos`: Dependiendo de los requerimientos del cliente con respecto a la publicación de datos de prueba, puede almacenarlos o no en esta carpeta. El objetivo de almacenar dichos datos es ejecutar y validar rápidamente que es lo que están haciendo los scripts del proyecto por ejemplo.
 
 ## Requisitos de instalación y uso
 
